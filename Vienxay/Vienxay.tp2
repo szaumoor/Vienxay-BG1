@@ -1,11 +1,11 @@
-BACKUP ~Vienxay\backup~
+BACKUP ~Vienxay/backup~
 AUTHOR ~https://forums.beamdog.com/discussion/comment/1056542~
 
 VERSION ~1.67~
 AUTO_TRA ~Vienxay/translations/%s~
 
 ALWAYS
-  INCLUDE ~Vienxay/library/functions.tph~
+  INCLUDE ~%MOD_FOLDER%/library/functions.tph~
 END
 
 // Note: Most of the BGT compatability/tutu compatability is removed. Ignore the lines suggesting such!
@@ -13,36 +13,36 @@ ALWAYS
 ACTION_IF GAME_IS ~bgee~ THEN BEGIN
   /*Tell the player it is using BG:EE stuff */
   PRINT @1 /* BG:EE install detected */
-  INCLUDE ~Vienxay\library\liam_bgee_vars.tpa~
+  INCLUDE ~%MOD_FOLDER%\library\liam_bgee_vars.tpa~
 END ELSE BEGIN
   ACTION_IF FILE_EXISTS_IN_GAME ~FW0100.are~ THEN BEGIN
     /* Tell the player it is using Tutu stuff */
     PRINT @2 /* Tutu install detected. */
-    INCLUDE ~Vienxay\library\g3_tutu_cpmvars.tpa~
+    INCLUDE ~%MOD_FOLDER%\library\g3_tutu_cpmvars.tpa~
   END ELSE BEGIN
     ACTION_IF FILE_EXISTS_IN_GAME ~AR7200.are~ THEN BEGIN
         /* Tell the player it is using BGT stuff */
         PRINT @3 /* BGT install detected. */
-        INCLUDE ~Vienxay\library\g3_bgt_cpmvars.tpa~
+        INCLUDE ~%MOD_FOLDER%\library\g3_bgt_cpmvars.tpa~
         /* Tell the player it is not Tutu or BGT */
 	END ELSE BEGIN
 		ACTION_IF GAME_IS ~eet~ BEGIN
 			INCLUDE ~EET/other/cpmvars/eet_cpmvars.tpa~
 			PRINT @8	// ~Enhanced Edition Trilogy install detected.~
-	    END ELSE BEGIN 
+	    END ELSE BEGIN
 	FAIL @4 /* Please install on BG:EE, Tutu or BGT. */
     END
   END
 END
 END
-END 
+END
 
 LANGUAGE ~English~
          ~english~
          ~Vienxay/translations/english/Vienxay.TRA~
 
 BEGIN @6 /* Vienxay NPC for BG1EE */
-  REQUIRE_PREDICATE (GAME_IS ~bgee eet~) @7 /* This component must be installed on BG:EE. */ 
+  REQUIRE_PREDICATE (GAME_IS ~bgee eet~) @7 /* This component must be installed on BG:EE. */
 
 ACTION_IF GAME_IS ~BGEE~ THEN BEGIN
 OUTER_SPRINT "bg1_eet_symbol" AR
@@ -51,12 +51,12 @@ END
 ACTION_IF GAME_IS ~EET~ THEN BEGIN
 OUTER_SPRINT "bg1_eet_symbol" BG
 END
-  
-INCLUDE ~Vienxay/library/Vien_items.tpa~  
-INCLUDE ~Vienxay/library/vien_bg1.tpa~ 
+
+INCLUDE ~%MOD_FOLDER%/library/Vien_items.tpa~
+INCLUDE ~%MOD_FOLDER%/library/vien_bg1.tpa~
 
 ACTION_IF FILE_EXISTS_IN_GAME ~bdcaelar.cre~ THEN BEGIN
-INCLUDE ~Vienxay/library/vien_sod.tpa~ 
+INCLUDE ~%MOD_FOLDER%/library/vien_sod.tpa~
 END
 
 PRINT @9
@@ -86,7 +86,7 @@ END
       PRINT @13
 	  END
 
-		
+
 PRINT @14
 
 PRINT @15
@@ -100,8 +100,8 @@ END
 	COPY_EXISTING ~sw1h01.itm~ ~override/bg1npcmusic.g3~
 
 	MKDIR ~music/blank~
-	COPY ~Vienxay/Music/blank.mus~ ~music~
-		~Vienxay/Music/blank.acm~ ~music/blank/blanka.acm~
+	COPY ~%MOD_FOLDER%/Music/blank.mus~ ~music~
+		   ~%MOD_FOLDER%/Music/blank.acm~ ~music/blank/blanka.acm~
 
 	COPY_EXISTING ~songlist.2da~ ~override~
   		SET_2DA_ENTRY 0 0 2 ~2DA_V1.0~
@@ -114,15 +114,14 @@ END
 
 LAF HANDLE_AUDIO
   STR_VAR
-    audio_path = ~Vienxay/music~
-    oggdec_path = ~Vienxay/music~
-    sox_path = ~Vienxay/music~
+    audio_path = ~%MOD_FOLDER%/music~
+    oggdec_path = ~%MOD_FOLDER%/music~
+    sox_path = ~%MOD_FOLDER%/music~
 END
 
 PRINT @17
-END 
+END
 
 ACTION_IF ("music" = 2) THEN BEGIN
 PRINT @18
-END 
-		
+END

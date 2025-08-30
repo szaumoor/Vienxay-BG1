@@ -2,8 +2,8 @@ LOAD_TRA ~Vienxay/translations/English/vien_bg1.tra~
 
 APPEND ~STATE.IDS~ // adds custom IsValidForPartyDialogue state
   ~0x80101FEF CD_STATE_NOTVALID~
-  UNLESS ~CD_STATE_NOTVALID~ 
-  
+  UNLESS ~CD_STATE_NOTVALID~
+
 // BAELOTH BANTER
 
 ACTION_IF FILE_EXISTS_IN_GAME ~neera.dlg~ THEN BEGIN
@@ -52,7 +52,7 @@ ADD_KIT ~X3VSM~
 //2         R R O A N E X L S R O X S N A E E U A R I C A O O O R N E H P O A A A A A A A A 1 1 1 1 1 1 1 1 1 1 2
 //1         D D W R T D E E W D R E W A K R R B R D N E F W W W T G D I O N 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0
  ~X3VSM	    1 1 1 0 1 0 0 1 0 1 1 0 0 1 1 1 0 1 0 0 0 0 1 1 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0~
-    
+
  // appended to ABCLASRQ.2da
  ~X3VSM				8      10	8	10	8	8~
 
@@ -71,7 +71,7 @@ ADD_KIT ~X3VSM~
  // appended to DUALCLAS.2da
  ~X3VSM                  	0       0       0       0       0       0~
 
- // path to your CLAB-style 2da file 
+ // path to your CLAB-style 2da file
  ~%MOD_FOLDER%/Spells/X3VK.2da~
 
  // PC races and classes allowed to use this kit, from KITTABLE.2da
@@ -81,7 +81,7 @@ ADD_KIT ~X3VSM~
  ~0x00004000     13~
 
  // HLA table to use; see LUABBR.2da
- ~X3V~ // Will need to have a custom one that incorporates both Shadowdancer and Mage abilities. 
+ ~X3V~ // Will need to have a custom one that incorporates both Shadowdancer and Mage abilities.
 
  // list of starting equipment for PCs starting in ToB. Appended column-wise to 25STWEAP.2da
  ~* * * * * * * * * * * * * * * * * * *  *~
@@ -95,7 +95,7 @@ LAF fl#add_kit_ee
 		kit_name = X3VSM
 		backstab = ~1 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4~
 	//	sneakatt = ~1 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6 6 7 7 7 7 7~
-	//	crippstr = ~0 0 0 0 0 0 1 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6~ 
+	//	crippstr = ~0 0 0 0 0 0 1 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6~
 		clswpbon = ~0 0 5~
 		thiefskl = ~30 20~
 		clasiskl = ~0 0 0 0 0 0 0~
@@ -110,7 +110,7 @@ LAF qd_multiclass
 		mc_dir = ~%MOD_FOLDER%/spells~
 END
 
-//HLA 
+//HLA
 COPY	"%MOD_FOLDER%/Spells/LUX3V.2da" override
 //Spell
 COPY	"Vienxay/Spells/X3VSB.bam" override
@@ -118,20 +118,20 @@ COPY	"Vienxay/Spells/X3VSBLT.spl" override
 	SAY NAME1 @54
 	SAY NAME2 @55
 	SAY 0x50 @56
-// Kit Fixes	
+// Kit Fixes
 	COPY	"Vienxay/Spells/X3VKit.spl" override
 	COPY	"Vienxay/Spells/X3VB1.spl" override
-	COPY	"Vienxay/Spells/X3VB2.spl" override	
+	COPY	"Vienxay/Spells/X3VB2.spl" override
 	COPY	"Vienxay/Spells/X3VB3.spl" override
 	COPY	"Vienxay/Spells/X3VB4.spl" override
-	COPY	"Vienxay/Spells/X3VSA.spl" override	
+	COPY	"Vienxay/Spells/X3VSA.spl" override
 	SAY NAME1 @159
 	SAY NAME2 @159
 	SAY 0x50 @160
-	COPY	"Vienxay/Spells/X3VDoor.spl" override	
+	COPY	"Vienxay/Spells/X3VDoor.spl" override
 	SAY NAME1 @161
 	SAY NAME2 @161
-	SAY 0x50 @162	
+	SAY 0x50 @162
 ///
 
 END
@@ -145,14 +145,14 @@ END
 
 LAF HANDLE_AUDIO END
 
-COPY ~Vienxay/cre/X3Vien.cre~ ~override/X3Vien.cre~
+COPY ~%MOD_FOLDER%/cre/X3Vien.cre~ ~override/X3Vien.cre~
   SAY NAME1 @1 //Vienxay
   SAY NAME2 @1 //Vienxay
   WRITE_ASCII 0x248 ~X3Vien~ #8  //override script
   WRITE_ASCII 0x280 ~X3Vien~ #32  //DV
   WRITE_ASCII 0x2cc ~X3Vien~ #8   //pre-joining dialogue file
-  WRITE_ASCII 0X34 ~VienxayM~ #8  
-  WRITE_ASCII 0x3c ~VienxayL~ #8  
+  WRITE_ASCII 0X34 ~VienxayM~ #8
+  WRITE_ASCII 0x3c ~VienxayL~ #8
   SAY BIO @2
   SAY MORALE @3 // ~I will not die here.~
   SAY HAPPY @4 // ~This party is doing better than I thought it would.~
@@ -167,7 +167,7 @@ COPY ~Vienxay/cre/X3Vien.cre~ ~override/X3Vien.cre~
   SAY BATTLE_CRY3 @13 // ~No one faces me and lives.~
   SAY BATTLE_CRY4 @14 // ~My art and shadows will end you all.~
   SAY BATTLE_CRY5 @15 // ~With vengeance!~
-  SAY DAMAGE @16 //~Ugh!~ 
+  SAY DAMAGE @16 //~Ugh!~
   SAY DYING @17 //~My power...was not...~
   SAY HURT @18 // ~Someone, heal me now!~
   SAY AREA_FOREST @19 // ~The forests...they bring me back to Evermeet.~ [X3VFor]
@@ -191,43 +191,43 @@ COPY ~Vienxay/cre/X3Vien.cre~ ~override/X3Vien.cre~
   SAY CRITICAL_HIT @490 //~Hahaha, yes!~ [VienCrtH]
   SAY CRITICAL_MISS @33 //~Ugh! I won't miss twice.~ [VienCrtM]
   SAY TARGET_IMMUNE @34 // ~Hrmph. This is what happens when you don't use magic.~ [VienImm]
-  SAY INVENTORY_FULL @35 // ~Do I look like I have room?~ [VienInv] 
+  SAY INVENTORY_FULL @35 // ~Do I look like I have room?~ [VienInv]
   SAY SPELL_DISRUPTED @36 // ~My spell failed? Impossible!~ [VienSpel]
-  SAY SET_A_TRAP @37 // ~It's done.~  
-  SAY HIDDEN_IN_SHADOWS @38 // ~None can see the shadowmage.~ 
+  SAY SET_A_TRAP @37 // ~It's done.~
+  SAY HIDDEN_IN_SHADOWS @38 // ~None can see the shadowmage.~
   SAY PICKED_POCKET @43 // ~That's mine now.~ [X3VPick]
   SAY SELECT_RARE1 @40 // ~Do you even appreciate my contributions?~ [VienRar1]
   SAY SELECT_RARE2 @41 // ~Give your command already. I have no patience for this.~ [VienRar2]
   SAY REACT_TO_DIE_GENERAL @42 // ~Another fallen? Fight harder, fools!~ [X3VDie]
-  WRITE_SHORT 0x246 (IDS_OF_SYMBOL (~kit~ ~X3VSM~)) 
+  WRITE_SHORT 0x246 (IDS_OF_SYMBOL (~kit~ ~X3VSM~))
 // JOURNAL ///
 
-ADD_JOURNAL TITLE (%Vienxay's Vengeance%) @10021 @10022 @10023 @10024 @10025 @10026  USING ~Vienxay/tra/english/Vien_bg1.tra~
-ADD_JOURNAL TITLE (@10152) @10153 @10154 @10155 @10149 @10148 @10147 USING ~Vienxay/tra/english/Vien_bg1.tra~ // SoD Quest. 
+ADD_JOURNAL TITLE (@10020) @10021 @10022 @10023 @10024 @10025 @10026  USING ~Vienxay/tra/english/Vien_bg1.tra~
+ADD_JOURNAL TITLE (@10152) @10153 @10154 @10155 @10149 @10148 @10147 USING ~Vienxay/tra/english/Vien_bg1.tra~ // SoD Quest.
 ////
- 
+
 APPEND ~pdialog.2da~ ~X3VIEN X3VienP X3VienJ X3vienD~
   UNLESS ~X3VIEN~
 
 APPEND ~interdia.2da~ ~X3VIEN X3VienB~
   UNLESS ~X3VIEN~
-  
+
 ///////////////////////////////////////////////
 ///////////////////////////////////////////////
 
 
   // Area scripts
-      EXTEND_TOP ~%bg1_eet_symbol%2300.bcs~ ~Vienxay/Script/ar2300.baf~ EVAL
+    EXTEND_TOP ~%bg1_eet_symbol%2300.bcs~ ~Vienxay/Script/ar2300.baf~ EVAL
 	  EXTEND_TOP ~%bg1_eet_symbol%4801.bcs~ ~Vienxay/Script/ar4801.baf~ EVAL
 	  EXTEND_TOP ~%bg1_eet_symbol%1600.bcs~ ~Vienxay/Script/ar1600.baf~ EVAL
 	  EXTEND_TOP ~%bg1_eet_symbol%2100.bcs~ ~Vienxay/Script/ar2100.baf~ EVAL
-      
+
 /////////////////////////////////////////////////
 /////////////////////////////////////////////////
 
 
 
-    
+
 COMPILE EVALUATE_BUFFER ~Vienxay/Script/X3VIEN.baf~
 COMPILE EVALUATE_BUFFER ~Vienxay/Script/X3VAPR.baf~
 COMPILE EVALUATE_BUFFER ~Vienxay/Script/X3VAPR2.baf~
@@ -252,28 +252,28 @@ END
 
 /////////////////////////////////////////////////
 
-/* Creatures */ 
+/* Creatures */
 COPY ~%MOD_FOLDER%/cre/X3VAPR2.cre~ ~override/X3VAPR2.cre~
 SAY NAME1 @51
-SAY NAME2 @51 
+SAY NAME2 @51
   WRITE_ASCII 0x248 ~X3VAPR2~ #8  //override script
   WRITE_ASCII 0x280 ~X3VAPR2~ #32  //DV
   WRITE_ASCII 0x2cc ~X3VAPR2~ #8   //pre-joining dialogue file
 COPY ~%MOD_FOLDER%/cre/X3VAPR3.cre~ ~override/X3VAPR3.cre~
 SAY NAME1 @51
-SAY NAME2 @51 
+SAY NAME2 @51
   WRITE_ASCII 0x248 ~X3VAPR3~ #8  //override script
   WRITE_ASCII 0x280 ~X3VAPR3~ #32  //DV
 COPY ~%MOD_FOLDER%/cre/X3VAPR4.cre~ ~override/X3VAPR4.cre~
 SAY NAME1 @51
-SAY NAME2 @51 
+SAY NAME2 @51
   WRITE_ASCII 0x248 ~X3VAPR4~ #8  //override script
   WRITE_ASCII 0x280 ~X3VAPR4~ #32  //DV
 COPY ~%MOD_FOLDER%/cre/X3VAPR5.cre~ ~override/X3VAPR5.cre~
 SAY NAME1 @51
-SAY NAME2 @51 
+SAY NAME2 @51
   WRITE_ASCII 0x248 ~X3VAPR5~ #8  //override script
-  WRITE_ASCII 0x280 ~X3VAPR5~ #32  //DV  
+  WRITE_ASCII 0x280 ~X3VAPR5~ #32  //DV
 COPY ~%MOD_FOLDER%/cre/X3VAPR.cre~ ~override/X3VAPR.cre~
   SAY NAME1 @49 //~Lacius~
   SAY NAME2 @49 //~Lacius~
@@ -292,46 +292,46 @@ COPY ~%MOD_FOLDER%/cre/X3VMAS.cre~ ~override/X3VMAS.cre~
 ACTION_IF FILE_EXISTS_IN_GAME ~x3milyB.dlg~
 THEN BEGIN
   PRINT @47 // Adding crossmod banter between Emily and Vienxay
-COMPILE ~Vienxay/dialogue/CrossMod/Emily.d~
-END 
+COMPILE ~%MOD_FOLDER%/dialogue/CrossMod/Emily.d~
+END
 
 ACTION_IF FILE_EXISTS_IN_GAME ~x3KaleB.dlg~
 THEN BEGIN
   PRINT @48 // Adding crossmod banter between Vienxay and Kale
-COMPILE ~Vienxay/dialogue/CrossMod/Kale.d~
-END 
+COMPILE ~%MOD_FOLDER%/dialogue/CrossMod/Kale.d~
+END
 
 ACTION_IF FILE_EXISTS_IN_GAME ~x3RecB.dlg~
 THEN BEGIN
   PRINT @52 // Adding crossmod banter between Vienxay and Recorder
-COMPILE ~Vienxay/dialogue/CrossMod/Recorder.d~
-END 
+COMPILE ~%MOD_FOLDER%/dialogue/CrossMod/Recorder.d~
+END
 
 ACTION_IF FILE_EXISTS_IN_GAME ~x3HelgaB.dlg~
 THEN BEGIN
   PRINT @53 // Adding crossmod banter between Vienxay and Helga
-COMPILE ~Vienxay/dialogue/CrossMod/Helga.d~
-END 
+COMPILE ~%MOD_FOLDER%/dialogue/CrossMod/Helga.d~
+END
 
 ACTION_IF FILE_EXISTS_IN_GAME ~BC0Drake.dlg~
 THEN BEGIN
   PRINT @57 // Adding crossmod banter between Vienxay and Drake
-COMPILE ~Vienxay/dialogue/CrossMod/Drake.d~
-END 
+COMPILE ~%MOD_FOLDER%/dialogue/CrossMod/Drake.d~
+END
 
 
 ACTION_IF FILE_EXISTS_IN_GAME ~BC0Siren.dlg~
 THEN BEGIN
   PRINT @58 // Adding crossmod banter between Vienxay and Sirene
-COMPILE ~Vienxay/dialogue/CrossMod/Sirene.d~
-END 
+COMPILE ~%MOD_FOLDER%/dialogue/CrossMod/Sirene.d~
+END
 
 ACTION_IF FILE_EXISTS_IN_GAME ~BC0Aura.dlg~
 THEN BEGIN
   PRINT @59 // Adding crossmod banter between Vienxay and Aura
-COMPILE ~Vienxay/dialogue/CrossMod/Aura.d~
-END 
+COMPILE ~%MOD_FOLDER%/dialogue/CrossMod/Aura.d~
+END
 
 //TO MAKE IT DISPLAY RIGHT IN WEIDU
 
-LOAD_TRA ~Vienxay/translations/English/Vienxay.tra~
+LOAD_TRA ~%MOD_FOLDER%/translations/English/Vienxay.tra~
