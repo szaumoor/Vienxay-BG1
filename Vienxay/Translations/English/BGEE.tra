@@ -1,7 +1,7 @@
 @0 = ~Speak up, speak up! You obviously want to say something, Vienxay.~
 @1 = ~I've no desire to speak to you at all. We are taught to kill your kind, not tolerate it.~
 @2 = ~What's stopping you? Go on ahead.~
-@3 = ~I've no desire to listen to the complaining of <CHARNAME>. And your magic is undeniable useful for the party, for now.~
+@3 = ~I've no desire to listen to the complaining of <CHARNAME>. And your magic is undeniably useful for the party, for now.~
 @4 = ~When that ceases to be however, I may fulfill your wish.~
 @41 = ~Your power is not what I expected for an elf.~
 @42 = ~There are not many of us who delve into Shadow Magic and the general practice of the Weave together.~
@@ -23,7 +23,7 @@
 @20 = ~Take it as it is. Most orcs I find displeasing. You're more pleasant than the humans.~
 @21 = ~Though given how annoying they are, perhaps it is not a difficult feat.~
 @22 = ~Mutt, you have piqued my curiosity with your display of power, how does one learn wild magic?~
-@23 = ~It's a commitment to a practice. One that is very difficult to exit once you've started.~ 
+@23 = ~It's a commitment to a practice. One that is very difficult to exit once you've started.~
 @24 = ~So I suppose anyone can do it?~
 @25 = ~Not anyone. Nor should anyone. I would be very worried if you started casting wild magic.~
 @26 = ~Jealousy doesn't look good on you, mutt.~
@@ -31,10 +31,10 @@
 @28 = ~You had the opportunity to learn the shadow weave. Why did you not take it?~
 @29 = ~Shar's weave is not to be undertaken lightly. Some power is not worth the price.~
 @30 = ~Price often can be mitigated.~
-@31 = ~Only if the consequences are of no hindrance. That is not the case here.~ 
+@31 = ~Only if the consequences are of no hindrance. That is not the case here.~
 @32 = ~Mutt, if you are not more careful with your surging around me...~
-@33 = ~Vienxay, how many times do I have to say it...I am not a mutt.~ 
-@34 = ~Shut up. I'm trying to protect the group's most prized asset. Myself.~
+@33 = ~Vienxay, how many times do I have to say it...I am not a mutt.~
+@34 = ~Shut up. I'm trying to protect the group's most prized asset: myself.~
 @35 = ~Oh wow. My eyes are rolling. Let me get a vote on that.~
 @36 = ~I've used Shar's weave, Rasaad. Does this disturb you?~
 @37 = ~You aim to make me react. But I see your light, Vienxay. You do not continue this practice. You have learned.~

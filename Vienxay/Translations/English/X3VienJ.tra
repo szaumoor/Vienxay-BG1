@@ -1,12 +1,12 @@
 @0 = ~My feet are killing me. And the food we have is awful. I miss the cuisine back home.~ [X3VSonD]
-@1 = ~You complain a lot, Vienxay. Why not just go home?~ 
-@2 = ~You're welcome to cook.~ 
-@3 =  ~We can stop for a moment. We've been moving quite a bit.~ 
-@4 = ~Stop groveling and keep moving.~ 
+@1 = ~You complain a lot, Vienxay. Why not just go home?~
+@2 = ~You're welcome to cook.~
+@3 =  ~We can stop for a moment. We've been moving quite a bit.~
+@4 = ~Stop groveling and keep moving.~
 @5 = ~Fine.~
 @6 = ~I'm exiled, obviously. ~
 @7 = ~That witch being dead won't end that.~
-@8 = ~Even if we kill that witch, Evermeet won't change it's mind. I'm stuck.~
+@8 = ~Even if we kill that witch, Evermeet won't change its mind. I'm stuck.~
 @9 = ~Please that is what servants are for. But I suppose it is hard to hire a good cook and a good warrior. These lands require capable self-defense.~
 @10 = ~Really? Well. Thank you. It is not all the fault of your awful pace. I have been chasing this witch for sometime now, with little rest.~
 @11 = ~My master, Luna, befriended me with promises of ascending higher into the court, learning as her apprentice, gaining power and prestige in the process. Things that should have rung my suspicion, but did not.~
@@ -15,7 +15,7 @@
 @14 = ~Then one day I discovered too late that one of her "jobs" was moving dead elves she was using for experiments. When I was about to betray her with this knowledge, she betrayed me first, pinning their deaths on me.~
 @15 = ~We'll get her.~
 @16 = ~Serves you right. Sounds like she was a Sharran.~
-@17 = ~I am sorry for what your loss.~
+@17 = ~I am sorry for your loss.~
 @18 = ~This master of yours did a terrible thing to you.~
 @19 = ~Of course we will. Retribution will be had.~
 @20 = ~I don't expect you to understand why I was pulled in, or why I was blind to their loyalties. You wouldn't understand the pressure of the first born of nobility.~
@@ -45,7 +45,7 @@
 @44 = ~That's not possible here. There's benefits to being open.~
 @45 = ~I think I've listened to all I can handle.~
 @46 = ~What was Evermeet not like? Do be specific, what do you want to know exactly?~
-@47 = ~What were the cities like?~ 
+@47 = ~What were the cities like?~
 @48 = ~Were there any exceptions to the elves only policy?~
 @49 = ~What sort of government was there?~
 @50 = ~Maybe another time.~
@@ -58,18 +58,18 @@
 @57 = ~In the plains, you would see an assortment of beautiful horses living on the land, nothing like the lowly quality you have locally. Giant Eagles watched from the trees.~
 @58 = ~No orc or beast would taint our land like this land has.~
 @60 = ~Gorgeous, of course. There was no starving peasants, our people were proud and worked hard, not like the lowly local folk here.~
-@61 = ~The towers would rise into the sky, and the walk ways would wrap around trees and nests, leaving them undisturbed.~
+@61 = ~The towers would rise into the sky, and the walkways would wrap around trees and nests, leaving them undisturbed.~
 @62 = ~The architecture is second to none. Nothing was made without mind for beauty.~
 @59 = ~Thank you, that was enlightening.~
 @63 = ~They could try, they would fail. Raiders tried. Drow, Pirates, Red Wizards. They all failed. There is no fleet in this world as fierce or strong as Evermeet's, no one could launch a successful invasion against us.~
 @64 = ~Queen Moonflower is our monarch. Of course, my family was on their way to having some influence on her council...bar certain setbacks happening, we could have had some influence in Evermeet's governing.~
 @65 = ~The Queen is a force to be respected, and far more reasonable than the typical human leadership you've locally, with your fat mayors and foolish lords.~
 @66 = ~Yes, of course. And thank you. I feel better now, even if this land is still awful.~
-@67 = ~What was the land like?~ 
-@68 = ~<CHARNAME>, we need to talk.~ 
+@67 = ~What was the land like?~
+@68 = ~<CHARNAME>, we need to talk.~
 @69 = ~What's wrong?~
 @70 = ~Speak your mind.~
-@71 = ~Now isn't the time.~ 
+@71 = ~Now isn't the time.~
 @72 = ~Now is bloody well the time.~
 @73 = ~Why did you let him get away? He didn't reveal the truth that could have got me saved back in Evermeet!~
 @74 = ~Because he was repentant, and ultimately as used as yourself.~
@@ -77,7 +77,7 @@
 @76 = ~I'm not here to play executioner to every pawn. They are not the one we seek.~
 @77 = ~Because I believed it was the best decision, got it?~
 @78 = ~Fine. You have a point. I am just...angry. That stupid man got roped away from me with her seductive Sharran darkness!~
-@79 = ~You did it to make me MAD?! Oh, I am very angry, <CHARNAME>.~ 
+@79 = ~You did it to make me MAD?! Oh, I am very angry, <CHARNAME>.~
 @80 = ~If you play this game when we meet my former master, I will be livid.~
 @81 = ~We know where she is now. I expect you to make every preparation before we meet her, her magic will be fierce.~
 @82 = ~I'll do this right. We will get her, Vienxay.~
@@ -85,7 +85,7 @@
 @84 = ~Don't bark at me. I know what to do.~
 @85 = ~I do, given what happened in the inn.~
 @94  = ~No, I admit you've done well so far.~
-@86 = ~I am just...concerned.~ 
+@86 = ~I am just...concerned.~
 @87 = ~I remember sitting in shame, amongst the council, my family and sisters in attendance, as my sentence of being cast out was given.~
 @88 = ~And I remember that bitch and my ex just watching. I hated them both for it.~
 @89 = ~This is all I have, <CHARNAME>. Don't let me lose this.~
@@ -99,13 +99,13 @@
 @97 = ~I've every *right* to fret. This is crucial to me.~
 @98 = ~I don't appreciate vague reassurance, <CHARNAME>.~
 @99 = ~I've a question of you, <CHARNAME>.~ [X3VSonD]
-@100 = ~What is it?~ 
+@100 = ~What is it?~
 @101 = ~I'm listening.~
 @102 = ~This will be interesting.~
-@103 = ~This isn't the best time.~ 
+@103 = ~This isn't the best time.~
 @104 = ~Hrmph. As you say.~
 @105 = ~It is more of an observation, of sorts.~
-@106 = ~You took the path of the mage. What influenced you to make this life-decision?~ 
+@106 = ~You took the path of the mage. What influenced you to make this life-decision?~
 @107 = ~It was a path that Gorion believed best for me.~
 @108 = ~There were many tomes and spells in Candlekeep. It was the natural choice.~
 @109 = ~That's a personal question. I'd rather not share.~
@@ -115,13 +115,13 @@
 @113 = ~You're a priest. What influenced you to be such a path?~
 @114 = ~I felt a connection to my god, this path is right for me.~
 @115 = ~You're a forest walker. What influenced you to choose this path?~
-@116 = ~You're a rogue, skilled with all sorts of skulduggery. Why choose this path?~ 
+@116 = ~You're a rogue, skilled with all sorts of skulduggery. Why choose this path?~
 @117 = ~I've always wanted to live by the thrill of the rogue's trickery. This suits me.~
 @118 = ~Gorion didn't approve of it, but it helped cure the boredom of Candlekeep, following this path.~
 @119 = ~You're trained to fight in battle, when you could have gone so many other ways. Why choose this path?~
 @120 = ~I needed to know how to defend myself. Being a <PRO_CLASS> felt suiting.~
 @121 = ~Our caretakers are such great influence of our life path.~
-@122 = ~I suppose that makes sense, the world around you influencing what cards you could pick from.~ 
+@122 = ~I suppose that makes sense, the world around you influencing what cards you could pick from.~
 @123 = ~Whatever you want. It is not that important for me to know.~
 @124 = ~Spoken like someone who has given little thought of who they are.~
 @125 = ~I'll hardly understand such spirituality, and how it seizes some people.~
@@ -143,33 +143,33 @@
 @142 = ~It's about time we're here.~
 @143 = ~They're bound to be in the vicinity, perhaps the inn. Let's look around.~
 @144 = ~You idiot. How the hell are we supposed to find her now?~
-@145 = ~Wait. He has a letter...she's in the Cloakwood, is she? I suppose it's not a lost cause after all.~ 
+@145 = ~Wait. He has a letter...she's in the Cloakwood, is she? I suppose it's not a lost cause after all.~
 @146 = ~<CHARNAME>, a moment.~ [X3VSonD]
-@147 = ~Yes, Vienxay?~ 
+@147 = ~Yes, Vienxay?~
 @148 = ~What is it now?~
-@149 = ~Can it wait?~ 
+@149 = ~Can it wait?~
 @150 = ~I am curious what your plans are for this party. We have been traveling for a while together and I wish to understand your objective.~
 @151 = ~I am taking it by ear.~
 @152 = ~I want to get to the bottom of this Iron Throne.~
 @153 = ~There are widespread problems across the region I intend to resolve.~
 @154 = ~Finding out who is sending all of these assassins after me, and why.~
-@155 = ~Does it matter?~ 
+@155 = ~Does it matter?~
 @156 = ~By ear? I suppose following your intuition can work, if you have any sense of intelligence, that is.~
-@157 = ~I see. They seem quite powerful, quite connected. They remind me of my own master's ruthlessness.~ 
+@157 = ~I see. They seem quite powerful, quite connected. They remind me of my own master's ruthlessness.~
 @158 = ~No need to be rude. Particularly to me.~
 @159 = ~Can it wait? I find such a question stupid. I'll be disinterested in asking about it later, but as you wish.~
 @160 = ~Whoever they are, they are fools. They should realize you travel with the likes of myself.~
 @161 = ~Does it matter? Of course it matters. I want to know our objective is sound.~
 @162 = ~I'm not a baby. You don't need to check on me.~
-@163 = ~How do you think I am doing?~ 
+@163 = ~How do you think I am doing?~
 @164 = ~Clearly I am doing splendidly.~
-@165 = ~Why haven't you see my wounds tended is beyond me.~ 
-@166 = ~I need healing. As this group's most significant asset, letting me limp around is foolish.~ 
+@165 = ~Why haven't you see my wounds tended is beyond me.~
+@166 = ~I need healing. As this group's most significant asset, letting me limp around is foolish.~
 @167 = ~What is in my thoughts is in my thoughts for a reason.~
 @168 = ~Speak.~ [VienCom2]
-@169 = ~I need nothing at the moment.~ 
+@169 = ~I need nothing at the moment.~
 @170 = ~You wanted to tell me something earlier?~
-@171 = ~What would you like to talk about?~ 
+@171 = ~What would you like to talk about?~
 @172 = ~Can you make something for me?~
 @173 = ~I am trying to plan my next spell sequence. Our victories require my brilliant thinking.~
 @174 = ~What do you think I should do now?~
@@ -188,11 +188,11 @@
 @187 = ~What made you not use the Shadow Weave?~
 @188 = ~So, how do you feel, now that this issue with your master is over?~
 @189 = ~There are other elven communities out there. Have you thought of going to them?~
-@190 = ~Are you always so haughty?~ 
+@190 = ~Are you always so haughty?~
 @191 = ~Can you give me any tips about stealth?~
 @192 = ~Could you teach me the Shadow weave?~
-@193 = ~I'd like a Wand of Magic Missiles~ 
-@194 = ~Yes, of course. As long as we don't already have the same wand on us. I'm not going to make something if it's not been used up! Now, I can make a wand of magic missiles, summoning, frost, fire, or lightning. ~ 
+@193 = ~I'd like a Wand of Magic Missiles~
+@194 = ~Yes, of course. As long as we don't already have the same wand on us. I'm not going to make something if it's not been used up! Now, I can make a wand of magic missiles, summoning, frost, fire, or lightning. ~
 @195 = ~I am certain I said that the luxury of time does not exist for this. Besides...~
 @196 = ~It is not for you. Your heart is...kind. Thoughtful. Traits I find exasperating, and surely the Shadow Weave would find the same.~
 @197 = ~While you have the capacity to learn the Shadow Weave, there are risks for you and I, and unlike my Master I do not wish to touch her teachings again. Not even for a student.~
@@ -203,7 +203,7 @@
 @202 =  ~It baffles me why you bothered asking about it, then.~
 @203 = ~Please, don't alarm yourself, I am too brilliant to be easily drained. It is only a little, but it is why it takes time. I'll not fatigue myself for anyone.~
 @204 = ~Let's keep moving.~
-@205 = ~Let's talk about something else.~ 
+@205 = ~Let's talk about something else.~
 @206 = ~What about your thieving talents, your ability to slip in shadow at will?~
 @207 = ~What, do you think I was tempted to? Well, I was tempted to, I admit. It's power unfortunately has drawbacks, and I am not keen on angering Mystra, who has my devotions.~
 @208 = ~You pray to Mystra, then?~
@@ -213,8 +213,8 @@
 @212 = ~You use your own essence in some spells. Weakening yourself for Shar in exchange for her boon of power.~
 @213 = ~You speak like you've used it before.~
 @214 = ~Well...you asked about it.~
-@215 = ~Are you expecting a tale of joy, <CHARNAME>?~ 
-@216 = ~They sailed me in chains like a common criminal through the mist that blinds non-elven sailors, and let me off at the first port on the larger continent.~ 
+@215 = ~Are you expecting a tale of joy, <CHARNAME>?~
+@216 = ~They sailed me in chains like a common criminal through the mist that blinds non-elven sailors, and let me off at the first port on the larger continent.~
 @217 = ~They were kind enough to let me have the clothes on my back and a sum of gold to make my way, a fraction of the riches stored in my home.~
 @218 = ~They echoed my sentence of no return for elves that I did not kill, and I was left to fend for myself.~
 @219 = ~I'm sorry for what you went through.~
@@ -228,7 +228,7 @@
 @227 = ~The merchant sets up his business because he wants to set up his business.~
 @228 = ~And the bandit is on the road pillaging because he believes that is the best way to make his life. Clearly he isn't asking others.~
 @229 = ~So I will happily accept selfish as a descriptor, and take it as a compliment.~
-@230 = ~Ooookay.~ 
+@230 = ~Ooookay.~
 @231 = ~My parents were in charge of finance, and advised on the spending of the very court and council of Evermeet.~
 @232 = ~My father was brilliant with money, though less with people. My mother's assistance helps elevate his reach and influence, with her way with words.~
 @233 = ~Naturally, I take more to my mother myself, though I'd rather serve my own interests.~
@@ -236,7 +236,7 @@
 @235 = ~And you expect this to be challenged?~
 @236 = ~How does being a bastard play into this?~
 @237 = ~All of your politics is a bit confusing.~
-@238 = ~You say the word selfish as if it is a bad thing.~  
+@238 = ~You say the word selfish as if it is a bad thing.~
 @239 = ~Queens and Kings take the throne because they desire it, grappling others to their cause.~
 @240 = ~I did not mean to anger you.~
 @241 = ~Now, we have other things to do, don't we?~
@@ -254,10 +254,10 @@
 @253 = ~He had nothing of value, except his own body.~
 @254 = ~His own body?~
 @255 = ~I still don't understand why you wanted Lacius dead.~
-@256 = ~Is that confidence you show, kin? It suits you. Perhaps one day it may even reward you.~ 
+@256 = ~Is that confidence you show, kin? It suits you. Perhaps one day it may even reward you.~
 @257 = ~He was good in bed. He knew how to please a lady. I've had many lovers before, and he was better than most of them.~
 @258 = ~People are such prudes outside of Evermeet.~
-@259 = ~You lack the proper equipment, <CHARNAME>. I wouldn't ever be interested, I am more strict in my desires than some of my kin.~ 
+@259 = ~You lack the proper equipment, <CHARNAME>. I wouldn't ever be interested, I am more strict in my desires than some of my kin.~
 @260 = ~Ajantis.~
 @261 = ~Alora.~
 @262 = ~Branwen.~
@@ -268,7 +268,7 @@
 @267 = ~Faldorn.~
 @268 = ~Garrick.~
 @269 = ~Imoen.~
-@270 = ~Jaheira.~ 
+@270 = ~Jaheira.~
 @271 = ~Kagain.~
 @272 = ~Khalid.~
 @273 = ~Kivan.~
@@ -293,7 +293,7 @@
 @292 = ~Sirene~
 @293 = ~Verr'Sza~
 @294 = ~Myself.~
-@295 = ~He's the type that judges what they don't understand. He annoys me, but if you can bear him, he's at least a useful meat shield.~ 
+@295 = ~He's the type that judges what they don't understand. He annoys me, but if you can bear him, he's at least a useful meat shield.~
 @296 = ~I can't stand halflings. Or pickpockets. Put both together, and you have a real pest.~
 @297 = ~Those of the human faiths are hardly interesting to me.~
 @298 = ~I've respect for my kin, and his talents with the bow are useful for our group.~
@@ -308,10 +308,10 @@
 @307 = ~Useless Coward. And a mutt. He's worse than a stray dog.~
 @308 = ~I respect him. A man who seeks action for those who wronged him. More people should be like him.~
 @309 =  ~The man is trouble in the head. Why is trouble walking with us?~
-@310 = ~He's different than most halflings. I almost find him tolerable.~   
+@310 = ~He's different than most halflings. I almost find him tolerable.~
 @311 = ~He's so dumb. DUMB.~
 @312 = ~A human who understands how to get what she wants. Respectable enough.~
-@313 = ~If there were more women like her, men wouldn't exist. She is that competent.~ 
+@313 = ~If there were more women like her, men wouldn't exist. She is that competent.~
 @314 = ~She is everything wrong with human nobility. Elves are far more classy and graceful in the upper classes, while not being glassy and useless.~
 @315 = ~You brought an insane gnome into our party. I am wondering if  you are also insane.~
 @316 = ~I'd normally protest the presence of a drow. But she is...interesting.~
@@ -328,8 +328,8 @@
 @327 = ~She'd be more useful if she embraced her power and stopped with the ridiculous idealism approach.~
 @328 =  ~Evermeet crossed my mind for a moment. A place I can only think about now.~
 @329 = ~You bring a being of great power on your adventures. Our success is even more assured.~
-@330 = ~You're an elf, and I tolerate you for that. No need to concern yourself.~  
-@331 = ~You're an inferior. But so long as you respect me, we will get along just fine.~ 
+@330 = ~You're an elf, and I tolerate you for that. No need to concern yourself.~
+@331 = ~You're an inferior. But so long as you respect me, we will get along just fine.~
 @332 = ~She was ambitious, confident, and a master of deception. No one would have second-guessed her true nature.~
 @333 = ~She played herself as a merchant, selling all sorts of goods that bought up interest. People like myself and Lacius wished to know more about the items, and she talked to us privately.~
 @334 = ~She spun the idea of business and contacts, and power and magic. I was too good of an offer to refuse. In retrospect, it was too good of an offer.~
@@ -349,15 +349,15 @@
 @348 = ~Please, a normal elf? I am also a noble elf, a mage, and gifted with shadow magic. I am better than a normal elf.~
 @349 = ~You fret needlessly. There will be no usurpation of your leadership. Although I would be better at it.~
 @350 = ~Can you make a Wand of Frost?~
-@351 = ~Can you make a Wand of Fire?~ 
-@352 = ~Can you make a Wand of Lightning~ 
+@351 = ~Can you make a Wand of Fire?~
+@352 = ~Can you make a Wand of Lightning~
 @353 = ~What are you thinking about?~
 @354 = ~Wand of Monster Summoning ~
 @355 = ~Of course I can. I'll just need a single and only a single Fire Agate Gem in my bag. Is that your choice?~
 @356 = ~Of course I can. I'll just need a Waterstar Gem in my bag. Is that your choice?~
 @357 = ~Can I check on your progress of your craft?~
 @358 = ~You don't seem to have the needed gem in your bag. I'll give you one later.~
-@359 = ~Let's stop and chat for a bit.~ 
+@359 = ~Let's stop and chat for a bit.~
 @360 = ~Of course I can. I'll just need a single and only a single Skydrop Gem in my bag. Is that your choice?~
 @361 = ~Of course I can. I'll just need a single and only a single Bloodstone Gem in my bag. Is that your choice?~
 @362 = ~Of course I can. It's a simple wand, I won't need a gem for it, even. Is this your choice?~
@@ -367,17 +367,17 @@
 @366 = ~Let's craft something else instead.~
 @367 = ~Check back with me in two days.~
 @368 = ~Don't rush me! It will be done when I said it would be! No sooner.~
-@369 = ~Yes, yes, it's done, <CHARNAME>.~ 
-@370 = ~Your Magic Missile Wand is ready. Do make use of my gift wisely.~ 
-@371 = ~Your Monster Summoning Wand is ready. May it crush our enemies.~  
-@372 = ~Your Frost Wand is ready. Do take care not to chill our wealthier enemies like a fool.~  
-@373 = ~Your Fire Wand is ready. Incinerate all who stand in our way with it.~ 
-@374 = ~Your Lightning Wand is ready. Do take care not to shock me with it.~ 
+@369 = ~Yes, yes, it's done, <CHARNAME>.~
+@370 = ~Your Magic Missile Wand is ready. Do make use of my gift wisely.~
+@371 = ~Your Monster Summoning Wand is ready. May it crush our enemies.~
+@372 = ~Your Frost Wand is ready. Do take care not to chill our wealthier enemies like a fool.~
+@373 = ~Your Fire Wand is ready. Incinerate all who stand in our way with it.~
+@374 = ~Your Lightning Wand is ready. Do take care not to shock me with it.~
 @375 = ~What do you think of me?~
 @376 = ~You idiot. Is your desire of power so strong you succumbed so easily to her bribe?~
 @377 = ~I should have known better than to trust in you!~
-@378 = ~She was too powerful, Vienxay, and you know it. This was the best course of action.~ 
-@379 = ~Vengeance would have solved nothing. You would still be banished from Evermeet.~ 
+@378 = ~She was too powerful, Vienxay, and you know it. This was the best course of action.~
+@379 = ~Vengeance would have solved nothing. You would still be banished from Evermeet.~
 @380 = ~Pursue her, then. I saved your life. I saved *all of our lives, and I look out for us.~
 @381 = ~I *will* pursue her. Without you. Good riddance, you useless peasant.~
 @382 = ~Individually she is very powerful, but you had no faith in our own power combined? You disgust me.~
@@ -390,12 +390,12 @@
 @389 = ~I shall continue to follow your lead, but don't bother me! I want space from all of your...mercifulness.~
 @390 = ~I...I suppose it hardly matters, in the grand scope of things. How I hate to admit it.~
 @389 = ~I shall continue to follow your lead, but don't bother me! I want space from all of your...mercifulness.~
-@391 = ~That does not matter to me. Only vengeance matters to me.~ 
+@391 = ~That does not matter to me. Only vengeance matters to me.~
 @392 =~I've had my brief curiosities and drunken incidents. None that I regret. Elven women are great lovers, and I the greatest of all, naturally.~
 @393 = ~Let us be away from this place. We may have cause for revelry later.~
 @394 = ~I've no interest in chatting now, peasant. Stand aside.~
 @395 = ~I've no interest in chatting now, peasant. Stand aside.~
-@396 = ~That is a stupid question.~ 
+@396 = ~That is a stupid question.~
 @397 = ~I feel happier than I have in a long time. Justice, *finally*. What Evermeet could not give me, you did, and you will have my gratitude for that, for a long time.~
 @398 = ~Thank you, I appreciate that.~
 @399 = ~It was nothing.~
@@ -404,9 +404,9 @@
 @402 = ~It has been too long since another Tel'Quessir has supported this much. I truly mean it when I say thank you.~
 @403 = ~One of your kind has never done so much for me, at such risk. I truly mean it when I say thank you.~
 @404 = ~<CHARNAME>, I need...an ear. I would appreciate you listening.~ [X3VSonL]
-@405 = ~I'm always here, Vienxay.~ 
+@405 = ~I'm always here, Vienxay.~
 @406 = ~What is it?~
-@407 = ~This isn't the time.~ 
+@407 = ~This isn't the time.~
 @408 = ~For a while, I felt true, pure joy from her death. Finally. Vengeance. Justice. All of those feelings of anger and discontent left me.~
 @409 = ~I have found it excruciatingly difficult to accept she will remain alive. To let go of the vengeance, anger, and discontent.~
 @410 =  ~Fine! Have it your way.~
@@ -415,7 +415,7 @@
 @413 = ~You will find a new home. You can move on.~
 @414 = ~Perhaps for the best.~
 @415 = ~You don't need to say anything, <CHARNAME>. Just listening is all I needed.~
-@417 = ~That is far easier said than done.~ 
+@417 = ~That is far easier said than done.~
 @418 = ~It would be less difficult if my family was dead, and the island sunk, for it could not tease the hope of return.~
 @419 = ~It is not for the best. It is shameful, it is humiliating, and it leaves me empty.~
 @416 = ~There's no need to dwell on it further. Your own problems await solving, and you will have my assistance until it is done.~
@@ -441,7 +441,7 @@
 @439 = ~I just want you to be happy.~
 @440 = ~You could also stay with me, adventuring.~
 @441 = ~You won't know unless you try.~
-@442 = ~Just offering advice.~ 
+@442 = ~Just offering advice.~
 @443 = ~The restoration of my rightful place in Evermeet would make me happy, and little else.~
 @444 = ~But thank you for your half-useful advice.~
 @445 = ~Admittedly, your company has been pleasant enough.~
@@ -453,7 +453,7 @@
 @451 = ~Why? I am very good at enticing and pleasing. It is a game, and the winner is everyone so long as you know when to wait and when to give in.~
 @452 = ~I could teach you a few things, on how be as good a lover and seducer as I if that is your desire.~
 @454 = ~You mean...together?~
-@457 = ~Sure, why not?~ 
+@457 = ~Sure, why not?~
 @455 = ~I'd rather a relationship, not a lustful episode.~
 @456 = ~Well. I have done such arrangements before for the desperate to impress, tempting as it is. But there is hardly a place for it. I'd just give you spoken advice.~
 @458 = ~No. This would just be advice. You hardly have the equipment for such anyway.~
@@ -486,7 +486,7 @@
 @477 = ~Keep quiet. We'll be at our treasure soon enough.~
 @478 = ~Isn't it? It won't make a difference in the end.~
 @479 = ~What, do you think I don't know what I'm doing? I'll obviously be careful. Just watch out for yourself.~
-@480 = ~Yes, yes, whatever.~ 
+@480 = ~Yes, yes, whatever.~
 @481 = ~It will on my patience. I tire of these puzzles and traps.~
 @482 = ~We are close. Somewhere in this vast forest is my old master.~
 @483 = ~Be watchful, for she may have other apprentices with her as well.~
@@ -498,7 +498,7 @@
 @489 = ~Human cities are all the same. The stench, the disregard of the natural world, the need for big and grand.~
 @490 = ~More than just humans live here, Vienxay.~
 @491 = ~I find myself agreeing with you.~
-@492 = ~Let me guess: It's not as grand as your homeland.~  
+@492 = ~Let me guess: It's not as grand as your homeland.~
 @493 = ~Yes, but this is clearly designed and founded for t he majority human population. You can tell because of how hideous it is.~
 @494 = ~Evermeet designed its cities right. With a marriage to the surrounding nature, not a domination. With beauty and splendor, and walkways free of garbage and filth.~
 @495 = ~We certainly didn't have a suspicious sewer system that crooks could make use of.~
@@ -512,24 +512,24 @@
 @503 = ~Whatever I say. Don't say it so dismissively. What I say is pure gold.~
 @504 = ~These forests are the only thing of decency you can find amongst these lands.~
 @505 = ~Are you that unhappy with everything else?~
-@506 = ~I do enjoy the serenity of nature.~ 
+@506 = ~I do enjoy the serenity of nature.~
 @507 = ~Can you just be quiet?~
 @508 = ~Yes, I am not fond of the civilization here. But I will bite my tongue if that is what you are begging me to do.~
 @509 = ~Exquisite, isn't it? I suppose your enemies however won't let you rest on your laurels to enjoy it for long. A shame.~
 @510 = ~I was on this road not long ago. Hrmph. Be careful. Between bandits, goblins, the wild animals, there's plenty out there to kill a lesser skilled person.~
 @511 = ~Thanks for the warning.~
 @512 = ~Sounds like you had a hard time out here.~
-@513 = ~I'll be fine.~ 
+@513 = ~I'll be fine.~
 @514 = ~Yes, of course. Just do heed my warning and don't get us killed.~
 @515 = ~Please. Someone of my caliber would manage just fine. You're not quite at my level yet, so I am concerned. Do heed my warning and don't get us killed.~
-// Proofread 
-@516 = ~How did you get exiled?~ 
+// Proofread
+@516 = ~How did you get exiled?~
 @517 = ~Adventurers don't get cooks and the luxury of nobility on the road.~
 @518 = ~I'm not surprised.~
 @519 = ~Not surprised? Do you expect me to suffer? No matter. You should hear the story before you judge.~
 @520 = ~Yes, I know that. Obviously. Ugh. Let me tell you how I got into this awful situation anyway.~
 @521 = ~Dead. Hahaha, yes! Dead! Dead! At last, you bitch, the grave you deserve.~ [X3VSonD]
-// Talk 5 Revision 
+// Talk 5 Revision
 @522 = ~I've led us this far. Have some trust.~
 @523 = ~You must be prepared to be just as ruthless. Whatever this organization is, they certainly do not have issues with money.~
 @524 = ~I will consider your words.~
@@ -541,7 +541,7 @@
 @530 = ~Blind trust can get you killed. But you have proven yourself so far. I will give you a break from my pestering We've a task at hand as is.~
 @531 = ~Good. You're learning quite well, it seems.~
 @532 = ~Fine, but if you get any of us killed with your lack of listening, you won't hear the end of my anger.~
-//Wand Teach Replacement 
+//Wand Teach Replacement
 @533 = ~You already know as much as I do. I may do the technique more flawlessly, but I am sure you can improve on your own.~
 @534 = ~My talent in shadows is innate and guided by my former mentor. Yours is not, and I cannot help you.~
 @535 = ~You're not like I. There is nothing I can teach you.~
@@ -587,23 +587,23 @@
 @574 = ~"Get moving". Do watch who you command.~
 @575 = ~Glories that are at an end. How the mighty have fallen.~
 @576 = ~Typically I would be against this arrangement, to walk with a drow. But she seems weak and...helpless. Even my heart pities her.~
-@577 = ~I am not walking with that drow. Absolutely not. I have standards.~ 
+@577 = ~I am not walking with that drow. Absolutely not. I have standards.~
 @578 = ~Baeloth is staying. Do you have a problem with that?~
 @579 = ~You were okay with Viconia in the party. What is one more?~
 @580 = ~I didn't think of the ramifications. Baeloth, please go.~
 @581 = ~Look, we need everyone we can get. You've seen what we're up against.~
 @582 = ~Very well. Baeloth, please go.~
-@583 = ~Such a fool! Good riddance to you, then!~ 
+@583 = ~Such a fool! Good riddance to you, then!~
 @584 = ~Good, you are sensible!~
 @585 = ~A fiery fool to force this idea of leaving! To do better without I, Baeloth? Bah!~
 @586 = ~My power is capable enough that you don't have to resort to the worst offenses. Make your decision, him or me.~
 @587 = ~Then I will choose you.~
 @588 = ~Then I choose Baeloth.~
 @589 = ~Ugh! Fine. I'll tolerate him, for now.~
-@590 = ~You speak as if two makes it easier to tolerate one. I am not inclined with that at all.~ 
-// 1.31 Fixes 
+@590 = ~You speak as if two makes it easier to tolerate one. I am not inclined with that at all.~
+// 1.31 Fixes
 @591 = ~I'm not paying you to grovel. Off with you.~
-// New 1.41 
+// New 1.41
 @592 = ~Here we go again. Another false accusation. Ugh.~
 @593 =  ~There is no need to be so rude. Please, he needs help.~
 // 1.5+
@@ -615,14 +615,14 @@
 @598 = ~Have you thought of sharing the lessons of your talents?~
 // 1.6+
 @599 = ~Ugh, it is bothering me, but I keep thinking of the memories with my mentor. The spells she helped me break through, and the tomes she helped me access.~ [X3VSonD]
-@600 = ~Are you regreting taking her life?~
+@600 = ~Are you regretting taking her life?~
 @601 = ~It sounds like you miss her.~
 @602 = ~All the better we didn't kill her then.~
 @603 = ~Do you wish to share a memory?~
 @604 = ~This isn't the time for reminiscing, Vienxay.~
 @605 = ~Oh, she deserved all that she got. She was...useful once, that is all there is to it.~
 @606 = ~Please. She was just...useful once, that is all there is to it.~
-@607 = ~I remember struggling with a particular evokation. Something to show off to the family, a bit of a glittery flare to impress. All it was doing when I casted it was nearly cause a small fire.~
+@607 = ~I remember struggling with a particular evocation. Something to show off to the family, a bit of a glittery flare to impress. All it was doing when I casted it was nearly cause a small fire.~
 @608 = ~She showed me how to control it, how to maintain the right posture and movement of the hand, how to say the right chant with absolute flawlessness. Five minutes of her teaching, and I was doing it perfectly.~
 @609 = ~I...simply find myself appreciating that. Despite all that she did to me, she did give me power that will be forever of use to me.~
 @610 = ~Not every part of even the worst person is bad. I think it's okay to have conflicted feelings on her.~
@@ -709,7 +709,7 @@
 @687 = ~I have one last thing to say to you. Eat. Magic.~
 @688 = ~Time to run!~
 @689 = ~Waterdhavian? As if that has any standing over a noble of Evermeet. Give the command, and I'll be glad to put these humans in their place.~
-//Fixes 
+//Fixes
 @690 = ~You want advice? Stop talking to me and be quiet.~
-@691 = ~Magic can enhance stealth beyond mundane means. But lacking that, quality equipment can make up for deficencies.~
+@691 = ~Magic can enhance stealth beyond mundane means. But lacking that, quality equipment can make up for deficiencies.~
 @692 = ~If you had any hope in the art, you wouldn't be asking me.~

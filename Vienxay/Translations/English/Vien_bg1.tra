@@ -1,11 +1,11 @@
 @0 = ~BG:EE detected - Baeloth interdia.2da append - set Baeloth's banter file (BBAELOTH)~
 // Vienxay's Lines and Items
 @1 = ~Vienxay~
-@2 = ~Some elves are just awful, and Vienxay is said to be one of them. Vienxay would disagree with such assertions, telling you she came from a prominent house in Evermeet, until a series of “misunderstandings” has her ousted and wandering the landscape. She speaks angrily of a visiting mage who tricked her and ruined her name and wanting to restore her former rightful glory.~
+@2 = ~Some elves are just awful, and Vienxay is said to be one of them. Vienxay would disagree with such assertions, telling you she came from a prominent house in Evermeet, until a series of “misunderstandings” had her ousted and wandering the landscape. She speaks angrily of a visiting mage who tricked her and ruined her name and wanting to restore her former rightful glory.~
 @3 = ~I will not die here.~ [VienFear]
 @4 = ~This party is doing better than I thought it would.~ [VienHap]
 @5 = ~If we were under my leadership, things would be looking much better around here.~
-@6 = ~Must we come to the aid of every commoner?~ [VienSer] 
+@6 = ~Must we come to the aid of every commoner?~ [VienSer]
 @7 = ~I'm done here. Be fools if you wish, but you do so without me.~ [VieBreak]
 @8 = ~A wise choice. I will bring us victory.~ [VienLead]
 @9 = ~I need to refresh my spells. Let us rest.~ [VienRest]
@@ -41,7 +41,7 @@
 @35 = ~Do I look like I have room?~ [VienInv]
 @36 = ~My spell failed? Impossible!~ [VienSpel]
 @37 = ~It's done.~ [VienDone]
-@38 = ~None can see the shadowmage.~ [VienHide] 
+@38 = ~None can see the shadowmage.~ [VienHide]
 @40 = ~Do you even appreciate my contributions?~ [VienRar1]
 @41 = ~Give your command already. I have no patience for this.~ [VienRar2]
 @42 = ~Another fallen? Fight harder, fools!~ [X3VDie]
@@ -57,7 +57,7 @@ STATISTICS:
 +15% Pickpocket
 +10% Open Lock
 
-Usable By: 
+Usable By:
 Vienxay
 Fighter-Thief
 Thief
@@ -65,7 +65,7 @@ Thief
 Weight: 1 ~
 @47 = ~Adding crossmod banter between Vienxay and Emily~
 @48 = ~Adding crossmod banter between Vienxay and Kale~
-// Creatures 
+// Creatures
 @49 = ~Lacius~
 @50 = ~Shadow Master Luna~
 @51 = ~Shadow Weaver Apprentice~
@@ -80,11 +80,11 @@ Level: 4
 Range: 40
 Duration: Instant
 Casting Time: 3
-Area of Effect: 1 Creature 
+Area of Effect: 1 Creature
 Saving Throw: None
 
-This Shadow Magic spell is similar to magic missile. Shadowbolt creates three cold, airy missiles, which dart from the wizard to the intended target. 
-Each missile does 1d6+1 magic cold damage. Another missile is gained from level 8 and every level after up to 15, maxing at eleven missiles.~ 
+This Shadow Magic spell is similar to magic missile. Shadowbolt creates three cold, airy missiles, which dart from the wizard to the intended target.
+Each missile does 1d6+1 magic cold damage. Another missile is gained from level 8 and every level after up to 15, maxing at eleven missiles.~
 
 @57 = ~Adding Crossmod Banter between Vienxay and Drake.~
 @58 = ~Adding Crossmod Banter between Vienxay and Sirene.~
@@ -103,22 +103,22 @@ Vienxay has joined my party.I'm still not sure if it is the best decision to bri
 
 Vienxay has heard rumor of an elder mage who is knowledgeable in shadow magic somewhere within the deeper forests where spiders and wyverns lie about. She would like to attempt to barter with them in exchange for power.~
 
-@10154 = ~The Elder Mage 
+@10154 = ~The Elder Mage
 
-We have met with the Elder Mage. She has promised us a tome of knowledge regarding shadow magic if we give her an emerald.~ 
+We have met with the Elder Mage. She has promised us a tome of knowledge regarding shadow magic if we give her an emerald.~
 
 @10155 = ~The Elder Mage
 
 We've retrieved the tome Secrets of Shadows from the Elder Mage. We should give it to Vienxay.~
 
-@10149 = ~The Elder Mage 
+@10149 = ~The Elder Mage
 The Elder Mage would not let us have a tome of knowledge containing secrets about shadow magic without a favor. We decided to attack her instead.~
 
-@10148 = ~The Elder Mage 
+@10148 = ~The Elder Mage
 
 We've retrieved the tome Secrets of Shadows from the Elder Mage. We should see if Vienxay learns anything from it in a few days.~
 
-@10147 = ~The Elder Mage 
+@10147 = ~The Elder Mage
 
 We've given Vienxay the tome Secrets of Shadows. Hopefully it helps her expand her knowledge of shadow magic. We could use her talents in the coming battles.~
 
@@ -131,17 +131,17 @@ Vienxay has joined our party. She seeks revenge against her old mentor, who betr
 
 @10022 = ~Vienxay's Vengeance
 
-Vienxay believes her target is here. We should have a look around and see if they're still around.~ 
+Vienxay believes her target is here. We should have a look around and see if they're still around.~
 
 @10023 = ~Vienxay's Vengeance
 
-We got the information we wanted from Lacius, a fellow apprentice and former lover of Vienxay. Vienxay’s old master is gathering reagents and components from the Shadow Druids in the Cloakwood forest.~ 
+We got the information we wanted from Lacius, a fellow apprentice and former lover of Vienxay. Vienxay’s old master is gathering reagents and components from the Shadow Druids in the Cloakwood forest.~
 
 @10024 = ~Vienxay's Vengeance
 
 We killed Vienxay’s old master.~
 
-@10025 = ~Vienxay's Vengeance 
+@10025 = ~Vienxay's Vengeance
 
 We accepted the old master’s offer of a powerful spell in apology. Vienxay was not entirely pleased.~
 
@@ -149,31 +149,31 @@ We accepted the old master’s offer of a powerful spell in apology. Vienxay was
 
 We were attacked by an apprentice of Vienxay's old master. They must definitely be somewhere in the vast Cloakwood.~
 
-@100002 = ~Some elves are just awful, and Vienxay is said to be one of them. Vienxay would disagree with such assertions, telling you she came from a prominent house in Evermeet, until a series of “misunderstandings” has her ousted and wandering the landscape. She speaks angrily of a visiting mage who tricked her and ruined her name and wanting to restore her former rightful glory.~
-// Kit update 
+@100002 = ~Some elves are just awful, and Vienxay is said to be one of them. Vienxay would disagree with such assertions, telling you she came from a prominent house in Evermeet, until a series of “misunderstandings” had her ousted and wandering the landscape. She speaks angrily of a visiting mage who tricked her and ruined her name and wanting to restore her former rightful glory.~
+// Kit update
 @156 = ~shadowmage~
 @157 = ~Shadowmage~
 @158 = ~SHADOWMAGE: Shadowmages are mage-thieves that can draw both on shadow magic and the weave, with the cunning and stealth of the shadowdancer and the mage's arsenal of spells.
-  While shadow magic is not the same as the shadow weave, many are drawn to it and can learn to use it. It's dark magic gives it poor public opinion, and most of its practicioners are non-good.
-  
-Advantages: 
+  While shadow magic is not the same as the shadow weave, many are drawn to it and can learn to use it. It's dark magic gives it poor public opinion, and most of its practitioners are non-good.
+
+Advantages:
 - + 15% Bonus to Hide in Shadows and Move Silently
 - Slippery Mind: +1 bonus to saving throws
 - May cast Shadow Jump once per day. Gains one use at thief level 5 and an additional use every 5 levels thereafter.
 
-SHADOW JUMP: Manipulating shadow, the shadowmage teleports to the selected living creature, be it ally or enemy, unseen as per the invisibility spell. For the next three rounds, they gain +2 to their backstab modifier and their thaco improves by %20 percent. They remain unseen until they make an attack or the spell expires. Additionally, while the spell is active, they may make one additional jump to another target of their choosing. The second jump does not reapply invisibility.
+SHADOW JUMP: Manipulating shadow, the shadowmage teleports to the selected living creature, be it ally or enemy, unseen as per the invisibility spell. For the next three rounds, they gain +2 to their backstab modifier and their thaco improves by 20%. They remain unseen until they make an attack or the spell expires. Additionally, while the spell is active, they may make one additional jump to another target of their choosing. The second jump does not reapply invisibility.
 
-Disadvantages: 
+Disadvantages:
 - Alignment restricted to any non-lawful and non-good
 - Backstab multiplier is one less than an unkitted Thief, cannot backstab until level 5.
-- May only distribute 20 skill points per level (30 at level 1) among thieving skills 
+- May only distribute 20 skill points per level (30 at level 1) among thieving skills
 - Cannot Hide in Plain Sight.
 - May not use Set Snare ability.
 - Hit Die: d5~
-@159 = ~Shadow Jump~  
-@160 = ~SHADOW JUMP: Manipulating shadow, the shadowmage teleports to the selected living creature, be it ally or enemy, unseen as per the invisibility spell. For the next three rounds, they gain +2 to their backstab modifier and their thaco improves by %20 percent. They remain unseen until they make an attack or the spell expires. Additionally, while the spell is active, they may make one additional jump to another target of their choosing. The second jump does not reapply invisibility.~
+@159 = ~Shadow Jump~
+@160 = ~SHADOW JUMP: Manipulating shadow, the shadowmage teleports to the selected living creature, be it ally or enemy, unseen as per the invisibility spell. For the next three rounds, they gain +2 to their backstab modifier and their thaco improves by 20%. They remain unseen until they make an attack or the spell expires. Additionally, while the spell is active, they may make one additional jump to another target of their choosing. The second jump does not reapply invisibility.~
 @161 = ~Shadow Displacement~
-@162 = ~SHADOW DISPLACEMENT: While SHADOW JUMP is active, the shadowmage may make one additional jump to another target within 180 feet of their sight. This does not reapply invisiblity.~
+@162 = ~SHADOW DISPLACEMENT: While SHADOW JUMP is active, the shadowmage may make one additional jump to another target within 180 feet of their sight. This does not reapply invisibility.~
 
 @500103  = ~^RVienxay slightly disapproves.^-~
 @500106  = ~^RVienxay disapproves.^-~

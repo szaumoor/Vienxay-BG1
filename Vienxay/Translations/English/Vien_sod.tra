@@ -1,9 +1,9 @@
 @1 = ~Vienxay~
-@2 = ~Some elves are just awful, and Vienxay is said to be one of them. Vienxay would disagree with such assertions, telling you she came from a prominent house in Evermeet, until a series of “misunderstandings” has her ousted and wandering the landscape. She speaks angrily of a visiting mage who tricked her and ruined her name and wanting to restore her former rightful glory.~
+@2 = ~Some elves are just awful, and Vienxay is said to be one of them. Vienxay would disagree with such assertions, telling you she came from a prominent house in Evermeet, until a series of “misunderstandings” had her ousted and wandering the landscape. She speaks angrily of a visiting mage who tricked her and ruined her name and wanting to restore her former rightful glory.~
 @3 = ~I will not die here.~ [VienFear]
 @4 = ~This party is doing better than I thought it would.~ [VienHap]
 @5 = ~If we were under my leadership, things would be looking much better around here.~ [VienAnn]
-@6 = ~Must we come to the aid of every commoner?~ [VienSer] 
+@6 = ~Must we come to the aid of every commoner?~ [VienSer]
 @7 = ~I'm done here. Be fools if you wish, but you do so without me.~ [VieBreak]
 @8 = ~A wise choice. I will bring us victory.~ [VienLead]
 @9 = ~I need to refresh my spells. Let us rest.~ [VienRest]
@@ -39,7 +39,7 @@
 @35 = ~Do I look like I have room?~ [VienInv]
 @36 = ~My spell failed? Impossible!~ [VienSpel]
 @37 = ~It's done.~ [VienDone]
-@38 = ~None can see the shadowmage.~ [VienHide] 
+@38 = ~None can see the shadowmage.~ [VienHide]
 @390 = ~That's mine now.~ [X3VPick]
 @40 = ~Do you even appreciate my contributions?~ [VienRar1]
 @41 = ~Give your command already. I have no patience for this.~ [VienRar2]

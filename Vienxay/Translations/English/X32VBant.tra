@@ -1,12 +1,12 @@
 @0    = ~Listen, drow. First, my magic is superior. Second, you are unnecessary. Remember that.~
-@1    = ~Arrogant abrasive cur. Wail and whining like the wind.~
+@1    = ~Arrogant abrasive cur. Wailing and whining like the wind.~
 @2    = ~You are so lucky that is what you are getting rather than a magic bolt through your gut.~
 @3    = ~I've been watching you. You don't seem the type to cast in anger.~
 @4    = ~Of course not.~
 @5    = ~Yet you were thrown in jail for reckless casting that got innocents hurt.~
 @6    = ~The idiot altered my aim at the last minute. I assure you I was aiming only at the peasant.~
 @7    = ~Keep your aim steady, and your emotions in control, and you won't wind up in it again.~
-@8    = ~That runt of yours, ugh ,what was her name?~
+@8    = ~That runt of yours... Ugh, what was her name?~
 @9    = ~That "runt" is my child, Rohma.~
 @10   = ~Whatever. Why did you make her? You clearly do not have time for her.~
 @11   = ~You are a ray of sunshine.~
@@ -19,7 +19,7 @@
 @18   = ~Are you gazing at me for a reason, elf?~
 @19   = ~Your...pact. Was it worth the price of the power offered?~
 @20   = ~Assuredly. Considering making one to my patron yourself?~
-@21   = ~Tempting. But no. I am smarter then that.~
+@21   = ~Tempting. But no. I am smarter than that.~
 @22   = ~No. Only mouthier.~
 @23   = ~As the magi in our party, you and I are cut from the same cloth, Dynaheir.~
 @24   = ~Thou'rt have little in common with me.~
@@ -28,8 +28,8 @@
 @27   = ~Please. Give it time. They will realize their mistake.~
 @28   = ~Do not grow too smug, Dynaheir. You may outpace my magical grasp for now, but that will be reversed in time.~
 @29   = ~Art thou feeling insecure?~
-@30   = ~Please. I am only complimenting your grasp of the weave, you seem to show some compotence.~
-@31   = ~Thou has an odd way of giving praise.~
+@30   = ~Please. I am only complimenting your grasp of the weave, you seem to show some competence.~
+@31   = ~Thou hast an odd way of giving praise.~
 @32   = ~Whatever. Forget I said anything.~
 @33   = ~Human.~
 @34   = ~Is the elf talking to me?~
@@ -68,7 +68,7 @@
 @67   = ~Hardly worthy enough to visit Evermeet. But worthy of recognition.~
 @68   = ~W-well...t-thank you?~
 @69   = ~Yes, do be very thankful.~
-@70   = ~I am so glad Evermeet is absent of mutts. Half-elf appearances are...abominable~
+@70   = ~I am so glad Evermeet is absent of mutts. Half-elf appearances are...abominable.~
 @71   = ~If you have nothing nice to say, Vienxay, say nothing at all.~
 @72   = ~Please. I'd rather tell your parents if they have nothing nice to create, create nothing at all.~
 @73   = ~Keep trying to rile me, exile. I am not the one bitter from my own mistakes.~
@@ -79,7 +79,7 @@
 @78   = ~Angry. Unpleasant. And thoroughly irritating.~
 @79   = ~That is a surprise. That fittingly describes you.~
 @80   = ~Please. I do it with a flare of sophistication.~
-@81   = ~If your nose reach any higher with your arrogance? I think not.~
+@81   = ~If your nose reached any higher with your arrogance? I think not.~
 @82   = ~Gods. If we were in my homeland, you would be *dead*, Goblin.~
 @83   = ~We're not.~
 @84   = ~Of course you're not. The point is that we have stooped *so* low as to tolerate you.~
@@ -119,7 +119,7 @@
 @118  = ~Don't try to understand me, human.~
 @119  = ~Many let anger and their emotions have control. But we must learn to let go if we are to have mastery of our selves.~
 @120  = ~I am perfectly fine, monk. Do stop your preaching.~
-@121  = ~If you deny that their is a problem, you will never resolve it.~
+@121  = ~If you deny that there is a problem, you will never resolve it.~
 @122  = ~Were there something to resolve. Now do silence yourself.~
 @123  = ~You are not like other humans. Most are violent, short-sighted, and annoying. But even I feel at ease in your serenity.~
 @124  = ~That is an unexpected compliment. Last we spoke, you were rather dismissive.~
@@ -180,7 +180,7 @@
 @179  = ~Why do I bother? As you say, miss perfect.~
 @180  = ~Good. You're learning your place.~
 @181  = ~Evermeet, eh? Fine warriors in the tales I heard.~
-@182  = ~You heard right..~
+@182  = ~You heard right...~
 @183  = ~Also the biggest snobs I've ever heard of.~
 @184  = ~Dwarven envy does look good on you.~
 @185  = ~There ain't no envy. Maybe if you could match me hammer for hammer.~

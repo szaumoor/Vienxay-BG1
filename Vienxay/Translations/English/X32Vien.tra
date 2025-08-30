@@ -1,5 +1,5 @@
 @0    = ~I said let m- you're not a guard. What is your business with me?~
-@1    = ~Vienxay? It has been sometime.~
+@1    = ~Vienxay? It has been some time.~
 @2    = ~Vienxay? What are you doing in this prison?~
 @3    = ~You must be the elf, Vienxay. Every other prisoner seems to be human.~
 @4    = ~If it isn't the Hero of Baldur's Gate. Do me a favor and speak to the guard? I am *innocent*. At least in the fact that I did not start it.~
@@ -35,7 +35,7 @@
 @34   = ~I could use your help Vienxay. March with me.~
 @35   = ~How did you get in a cell?~
 @36   = ~I am going to face Caelar the Shining Lady. Join me.~
-@37   = ~I am. We have have had crossed paths sooner, but I was stuck in a cell for days. It is fortunate and wise of them to allow me to join the expedition and have my ridiculous charge forgotten.~
+@37   = ~I am. We could have crossed paths sooner, but I was stuck in a cell for days. It is fortunate and wise of them to allow me to join the expedition and have my ridiculous charge forgotten.~
 @38   = ~*Huff*. Your loss.~
 @39   = ~It is a long story that I am not keen on retelling after just leaving the damnable place. Human treatment of me there was abysmal! I am a noble, not some low strung peasant.~
 @40   = ~An excellent decision, to recruit me for your services. I shall partner with you. Lead on.~
@@ -66,9 +66,9 @@
 @65   = ~Go back to camp. I'll find you there if I need you.~
 @66   = ~For now. Just wait here.~
 @67   = ~I've changed my mind. Rejoin me.~
-@68   = ~Fine. I'll be at camp..~
+@68   = ~Fine. I'll be at camp...~
 @69   = ~I am a *noble*. Asking me to wait is so...ugh!~
-@70   = ~Finally, you've come to our senses.~
+@70   = ~Finally, you've come to your senses.~
 @71   = ~Ugh. I suppose this is better than being stuck in a cell.~
 @72   = ~I've brought you back this tome from the Elder Mage.~
 @73   = ~I'd have you along, if you're willing.~
