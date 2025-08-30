@@ -153,25 +153,24 @@ We were attacked by an apprentice of Vienxay's old master. They must definitely 
 // Kit update
 @156 = ~shadowmage~
 @157 = ~Shadowmage~
-@158 = ~SHADOWMAGE: Shadowmages are mage-thieves that can draw both on shadow magic and the weave, with the cunning and stealth of the shadowdancer and the mage's arsenal of spells.
-  While shadow magic is not the same as the shadow weave, many are drawn to it and can learn to use it. It's dark magic gives it poor public opinion, and most of its practitioners are non-good.
+@158 = ~SHADOWMAGE: Shadowmages are mage-thieves that can draw both on shadow magic and the weave, with the cunning and stealth of the shadowdancer and the mage's arsenal of spells. While shadow magic is not the same as the shadow weave, many are drawn to it and can learn to use it. Its dark magic gives it poor public opinion, and most of its practitioners are non-good.
 
 Advantages:
-- + 15% Bonus to Hide in Shadows and Move Silently
+- +15% Bonus to Hide in Shadows and Move Silently
 - Slippery Mind: +1 bonus to saving throws
 - May cast Shadow Jump once per day. Gains one use at thief level 5 and an additional use every 5 levels thereafter.
 
-SHADOW JUMP: Manipulating shadow, the shadowmage teleports to the selected living creature, be it ally or enemy, unseen as per the invisibility spell. For the next three rounds, they gain +2 to their backstab modifier and their thaco improves by 20%. They remain unseen until they make an attack or the spell expires. Additionally, while the spell is active, they may make one additional jump to another target of their choosing. The second jump does not reapply invisibility.
+SHADOW JUMP: Manipulating shadow, the shadowmage teleports to the selected living creature, be it ally or enemy, unseen as per the invisibility spell. For the next three rounds, they gain +2 to their backstab modifier and their THAC0 improves by 20%. They remain unseen until they make an attack or the spell expires. Additionally, while the spell is active, they may make one additional jump to another target of their choosing. The second jump does not reapply invisibility.
 
 Disadvantages:
 - Alignment restricted to any non-lawful and non-good
-- Backstab multiplier is one less than an unkitted Thief, cannot backstab until level 5.
+- Backstab multiplier is one less than an unkitted Thief, and cannot backstab until level 5.
 - May only distribute 20 skill points per level (30 at level 1) among thieving skills
 - Cannot Hide in Plain Sight.
 - May not use Set Snare ability.
 - Hit Die: d5~
 @159 = ~Shadow Jump~
-@160 = ~SHADOW JUMP: Manipulating shadow, the shadowmage teleports to the selected living creature, be it ally or enemy, unseen as per the invisibility spell. For the next three rounds, they gain +2 to their backstab modifier and their thaco improves by 20%. They remain unseen until they make an attack or the spell expires. Additionally, while the spell is active, they may make one additional jump to another target of their choosing. The second jump does not reapply invisibility.~
+@160 = ~SHADOW JUMP: Manipulating shadow, the shadowmage teleports to the selected living creature, be it ally or enemy, unseen as per the invisibility spell. For the next three rounds, they gain +2 to their backstab modifier and their THAC0 improves by 20%. They remain unseen until they make an attack or the spell expires. Additionally, while the spell is active, they may make one additional jump to another target of their choosing. The second jump does not reapply invisibility.~
 @161 = ~Shadow Displacement~
 @162 = ~SHADOW DISPLACEMENT: While SHADOW JUMP is active, the shadowmage may make one additional jump to another target within 180 feet of their sight. This does not reapply invisibility.~
 
